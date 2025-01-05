@@ -24,6 +24,8 @@ Urban safety is crucial, with manholes posing risks when left open or improperly
 - Resized images to **72x72 pixels**.
 
 ### Model Architecture
+
+![Image Description](Manhole%20detection/architecture.jpg)
 - Built a CNN with:
   - **Three convolutional layers**.
   - **Max-pooling layers**.
@@ -50,10 +52,15 @@ Urban safety is crucial, with manholes posing risks when left open or improperly
 ---
 
 ## Visualizations
-- **Confusion Matrix**
-- **F1-Score by Category**
-- **Sample Predictions**
 
+**Confusion Matrix**  
+![Image Description](confusionmatrix.jpg)  
+
+**F1-Score by Category**  
+![Image Description](f1score.jpg)  
+
+**Sample Predictions**  
+![Image Description](predict.jpg)  
 ---
 
 ## Applications
