@@ -13,7 +13,9 @@ Urban safety is crucial, with manholes posing risks when left open or improperly
 ---
 
 ## Methodology
-![Image Description](Manhole detection/dd.jpg)
+
+![Image Description](Manhole%20detection/dd.jpg)
+
 ### Data Collection
 - Images of manholes were captured using **drones**.
 
